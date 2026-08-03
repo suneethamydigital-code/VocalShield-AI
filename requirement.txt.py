@@ -1,5 +1,5 @@
-Flask==3.0.0
-opencv-python-headless==4.8.1.78
-numpy==1.26.2
-scipy==1.11.4
-gunicorn==21.2.0
+Flask
+opencv-python-headless
+numpy
+scipy
+gunicorn
